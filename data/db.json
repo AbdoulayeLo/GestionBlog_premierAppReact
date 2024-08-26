@@ -1,0 +1,60 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Bienvenu dans mon blog",
+      "body": "Le lorem ipsum est, en imprimerie, une suite de mots sans significationLe lorem ipsum est",
+      "author": "AbdouLo",
+      "date": "04/04/2021"
+    },
+    {
+      "id": "3",
+      "title": "Bienvenu dans mon nouveau blog",
+      "body": "Le lorem ipsum est, en imprimerie, une suite de mots sans significationLe lorem ipsum est",
+      "author": "AbdouLy",
+      "date": "04/04/2022"
+    },
+    {
+      "id": "4",
+      "title": "Bienvenu dans mon nouveau blog",
+      "body": "Le lorem ipsum est, en imprimerie, une suite de mots sans significationLe lorem ipsum est",
+      "author": "AbdouLy",
+      "date": "04/04/2022"
+    },
+    {
+      "id": "5",
+      "title": "Bienvenu dans mon nouveau blog",
+      "body": "Le lorem ipsum est, en imprimerie, une suite de mots sans significationLe lorem ipsum est",
+      "author": "AbdouLy",
+      "date": "04/04/2022"
+    },
+    {
+      "id": "6",
+      "title": "Bienvenu dans mon nouveau blog",
+      "body": "Le lorem ipsum est, en imprimerie, une suite de mots sans significationLe lorem ipsum est",
+      "author": "AbdouLy",
+      "date": "04/04/2022"
+    },
+    {
+      "id": "7",
+      "title": "Bienvenu dans mon nouveau blog",
+      "body": "Le lorem ipsum est, en imprimerie, une suite de mots sans significationLe lorem ipsum est",
+      "author": "AbdouLy",
+      "date": "04/04/2022"
+    },
+    {
+      "id": "86ff",
+      "title": "les yeux",
+      "author": "Abdoulaye Lo",
+      "body": "wefg",
+      "date": "/hu Aug 22 2024 21:26:46 GM"
+    },
+    {
+      "id": "95bc",
+      "title": "Les enfants de la rue",
+      "author": "Abdoulaye Ly",
+      "body": "qwertyu",
+      "date": "/hu Aug 22 2024 21:28:09 GM"
+    }
+  ]
+}
